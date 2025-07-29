@@ -4,3 +4,4 @@ print("hello from feat1")
 print("hello from feat1")
 
 x = 10
+x = x / 2
