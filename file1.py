@@ -12,3 +12,7 @@ if (x = 20){
     ch = "x is bigger now !"
 }
 print(ch)
+
+for i in range(1,10){
+    print(i)
+}
