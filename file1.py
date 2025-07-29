@@ -15,4 +15,5 @@ print(ch)
 
 for i in range(1,10){
     print(i)
+    x = x - 1
 }
