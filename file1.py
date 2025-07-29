@@ -7,3 +7,8 @@ x = 10
 x = x * 2
 print(x)
 print("x is now 20")
+
+if (x = 20){
+
+}
+print(ch)
