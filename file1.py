@@ -9,6 +9,6 @@ print(x)
 print("x is now 20")
 
 if (x = 20){
-
+    ch = "x is bigger now !"
 }
 print(ch)
