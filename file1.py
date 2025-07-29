@@ -6,3 +6,4 @@ print("hello from feat1")
 x = 10
 x = x * 2
 print(x)
+print("x is now 20")
