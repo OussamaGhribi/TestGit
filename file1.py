@@ -9,3 +9,6 @@ print(x)
 print("x is now 20")
 
 print('deleted stufss')
+print('deleted stufs')
+
+print("yo wassup bing jin")
