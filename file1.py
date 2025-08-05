@@ -8,4 +8,4 @@ x = x * 2
 print(x)
 print("x is now 20")
 
-print('deleted stufs')
+print('deleted stufss')
