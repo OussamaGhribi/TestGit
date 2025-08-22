@@ -1,10 +1,6 @@
 print("hello again")
 print("this is a hello from main (conflict)")
-print("hello from feat1")
-print("hello from feat1")
 
-x = 10
-x = x * 2
 print(x)
 print("x is now 20")
 
@@ -17,3 +13,5 @@ print("yo wassup bing jin")
 
 for i in range(n):
     print(i * 3)
+
+print("tsting")
